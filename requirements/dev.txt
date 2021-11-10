@@ -49,7 +49,7 @@ chardet==4.0.0
     # via
     #   -r requirements/base.txt
     #   requests
-cherry_picker==2.0.0 ; python_version >= "3.6"
+cherry_picker==2.1.0 ; python_version >= "3.6"
     # via -r requirements/dev.in
 click==7.1.2
     # via
