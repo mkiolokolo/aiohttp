@@ -4,9 +4,9 @@
 #
 #    pip-compile --allow-unsafe requirements/cython.in
 #
-cython==0.29.26
+cython==0.29.27
     # via -r requirements/cython.in
-multidict==5.2.0
+multidict==6.0.2
     # via -r requirements/multidict.txt
 typing_extensions==3.7.4.3
     # via -r requirements/cython.in
