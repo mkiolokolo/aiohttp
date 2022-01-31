@@ -24,7 +24,7 @@ attrs==20.3.0
     #   pytest
 babel==2.9.0
     # via sphinx
-black==21.12b0 ; implementation_name == "cpython"
+black==22.1.0 ; implementation_name == "cpython"
     # via -r requirements/lint.txt
 blockdiag==2.0.1
     # via sphinxcontrib-blockdiag
@@ -50,7 +50,7 @@ chardet==4.0.0
     #   requests
 cherry_picker==2.1.0 ; python_version >= "3.6"
     # via -r requirements/dev.in
-click==7.1.2
+click==8.0.3
     # via
     #   -r requirements/lint.txt
     #   black
@@ -274,7 +274,6 @@ typing-extensions==3.7.4.3
     # via
     #   -r requirements/base.txt
     #   -r requirements/lint.txt
-    #   black
     #   mypy
 uritemplate==3.0.1
     # via gidgethub
