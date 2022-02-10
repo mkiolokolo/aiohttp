@@ -5,4 +5,4 @@ pygments==2.11.2
 sphinx==4.4.0
 sphinxcontrib-asyncio==0.3.0
 sphinxcontrib-blockdiag==3.0.0
-towncrier==21.3.0
+towncrier==21.9.0
