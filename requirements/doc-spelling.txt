@@ -82,9 +82,9 @@ sphinxcontrib-serializinghtml==1.1.5
     # via sphinx
 sphinxcontrib-spelling==7.3.2 ; platform_system != "Windows"
     # via -r requirements/doc-spelling.in
-toml==0.10.2
+tomli==2.0.1
     # via towncrier
-towncrier==21.3.0
+towncrier==21.9.0
     # via -r requirements/doc.txt
 urllib3==1.26.5
     # via requests
@@ -93,4 +93,6 @@ webcolors==1.11.1
 
 # The following packages are considered to be unsafe in a requirements file:
 setuptools==53.0.0
-    # via blockdiag
+    # via
+    #   blockdiag
+    #   towncrier
