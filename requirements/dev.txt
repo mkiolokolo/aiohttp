@@ -81,7 +81,7 @@ flake8==4.0.1
     # via
     #   -r requirements/lint.txt
     #   flake8-pyi
-flake8-pyi==22.1.0
+flake8-pyi==22.2.0
     # via -r requirements/lint.txt
 freezegun==1.1.0
     # via -r requirements/test.txt
