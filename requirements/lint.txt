@@ -48,7 +48,7 @@ platformdirs==2.4.0
     # via black
 pluggy==0.13.1
     # via pytest
-pre-commit==2.18.1
+pre-commit==2.19.0
     # via -r requirements/lint.in
 py==1.10.0
     # via pytest
